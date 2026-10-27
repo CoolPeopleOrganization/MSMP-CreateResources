@@ -1,0 +1,12 @@
+# Do not commit personal Minecraft files
+saves/
+config/
+defaultconfigs/
+options.txt
+servers.dat
+screenshots/
+logs/
+crash-reports/
+
+# Local files
+*.log
