@@ -173,8 +173,8 @@ file = "mods/modernfix-neoforge-5.27.27+mc1.21.1.jar"
 hash = "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b"
 
 [[files]]
-file = "mods/msmpcreateclientmod-1.0.0.jar"
-hash = "7f0ef31ac1532da41f8aab92c7be63ef9288819c361e3731878e0322f32757d9"
+file = "mods/msmpcreateclientmod-1.0.2.jar"
+hash = "a158dfcf4078a2a6e2025b6ca5fede7dd12415c36fac8e5cf2371cd48db285f7"
 
 [[files]]
 file = "mods/msmpupdater-1.0.4.jar"
