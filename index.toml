@@ -141,6 +141,10 @@ file = "mods/msmpcreateclientmod-1.0.0.jar"
 hash = "7f0ef31ac1532da41f8aab92c7be63ef9288819c361e3731878e0322f32757d9"
 
 [[files]]
+file = "mods/msmpupdater-1.0.0.jar"
+hash = "b640104b38ea9f5b0317a1d527a021d2a9a833552deb3fc1083e1715ad4ea50a"
+
+[[files]]
 file = "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
 hash = "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f"
 
