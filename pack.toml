@@ -1,12 +1,12 @@
 name = "MSMP Create"
 author = "Rook & Colezy"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f73db3a2a367fccbd1f232caefe7a561c519b8f67659ec172607db67a8ed1a8d"
+hash = "98983f7d70aec2f113bf393dc9eb960688f58de2c634c031e307aacb38290e8f"
 
 [versions]
 minecraft = "1.21.1"
