@@ -13,6 +13,10 @@ file = "mods/Jade-1.21.1-NeoForge-15.10.6.jar"
 hash = "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810"
 
 [[files]]
+file = "mods/KotlinLangForge-2.16.0-k2.4.21-3.0+neoforge.jar"
+hash = "269967f823c0f68192b5fbf2b676a08e1d0663c09ae92f5f179b5c185fd713dc"
+
+[[files]]
 file = "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
 hash = "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
 
@@ -199,6 +203,10 @@ hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
 [[files]]
 file = "mods/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar"
 hash = "0824bdd7cd5b5654eeb05dc9b62b42003b081b781009c38dc83ee1e106ca4ce2"
+
+[[files]]
+file = "mods/veinminer-neoforge-2.11.2+1.21.1.jar"
+hash = "2d70ecdbf24b7e5e3ab6f19715dcb37d956931e0b65e7026b4d5524e002c46e4"
 
 [[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.26.jar"
