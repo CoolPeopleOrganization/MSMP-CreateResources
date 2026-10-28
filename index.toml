@@ -133,6 +133,10 @@ file = "mods/fusion-1.3.16-neoforge-mc1.21.1.jar"
 hash = "29920a6838f4f942947d208349480d7f5737f9fac6411c6eac5f3e824a438048"
 
 [[files]]
+file = "mods/interiors-1.21.1-neoforge-0.6.1.jar"
+hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
+
+[[files]]
 file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
 hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
 
