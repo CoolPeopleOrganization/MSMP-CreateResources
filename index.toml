@@ -205,6 +205,10 @@ file = "mods/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar"
 hash = "0824bdd7cd5b5654eeb05dc9b62b42003b081b781009c38dc83ee1e106ca4ce2"
 
 [[files]]
+file = "mods/veinminer-client-neoforge-2.11.2+1.21.1.jar"
+hash = "a897851b9e5fffd9d17e89b7ad67aa7ac2bd6322272ab0cc20c0feb52e5ee5b0"
+
+[[files]]
 file = "mods/veinminer-neoforge-2.11.2+1.21.1.jar"
 hash = "2d70ecdbf24b7e5e3ab6f19715dcb37d956931e0b65e7026b4d5524e002c46e4"
 
