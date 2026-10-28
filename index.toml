@@ -161,6 +161,10 @@ file = "mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar"
 hash = "182ad8ad757175b49d573512c8fac624ee526e8138e24b36f677b0f6466e20cb"
 
 [[files]]
+file = "mods/moarmusicdiscs-0.0.1.jar"
+hash = "64378439ddf7681407291fbb19eb93dcf29302c5b2fb5b16dc70dc5054cc7a2f"
+
+[[files]]
 file = "mods/modelfix-1.21-1.10.jar"
 hash = "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912"
 
