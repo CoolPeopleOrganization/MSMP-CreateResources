@@ -5,6 +5,10 @@ file = "mods/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar"
 hash = "78990104c08a2f14f1ec18e0ddab47a682398401894954331b5f91213b4ca767"
 
 [[files]]
+file = "mods/CreateDragonsPlus-1.11.9.jar"
+hash = "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
+
+[[files]]
 file = "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar"
 hash = "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702"
 
@@ -29,6 +33,14 @@ file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
 hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
 
 [[files]]
+file = "mods/azimuth-1.4.10.jar"
+hash = "e9f56d10a6ae56c8d02d2e9e1668c7b70d545d8e20cf4972f0710e9b01989d8a"
+
+[[files]]
+file = "mods/bits_n_bobs-2.3.5.jar"
+hash = "3e1647383c6ed1d629b6f20210179d5870bcbf8ba2a2a0ec58af69b53513db68"
+
+[[files]]
 file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
@@ -49,6 +61,14 @@ file = "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar"
 hash = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
 
 [[files]]
+file = "mods/create-enchantment-industry-2.4.2.jar"
+hash = "81f192bb53888e01f87a82eaac2f261c93715f2221dbcf5d8a8d414f912f75ef"
+
+[[files]]
+file = "mods/create_aeronautics_transmission_linkage-0.2.8.jar"
+hash = "149a68e131440c62a2aae39357dc23cf190d7ec4fb52c0c0b105834988d63596"
+
+[[files]]
 file = "mods/create_connected-1.3.3-mc1.21.1.jar"
 hash = "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f"
 
@@ -63,6 +83,10 @@ hash = "71e9c3ac39089e72c1e47a129a44e41eb55efc9534eecfdead8da8fb64313414"
 [[files]]
 file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
 hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+
+[[files]]
+file = "mods/createdieselgenerators-1.21.1-1.3.15.jar"
+hash = "56ef1d574278fc311f1ffa223dbd613077b899354a18d01ae8dca2578a4e2990"
 
 [[files]]
 file = "mods/createpropulsion-1.1.5.jar"
@@ -195,6 +219,10 @@ hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar"
 hash = "108cac1fe49d0dc210183d69787db5a359cdc03c5b580eb8ab0208be7f072982"
+
+[[files]]
+file = "mods/struts-1.3.1.jar"
+hash = "21002a8b6881a3d08da74f03f29ab23551db50d755d7e75b8b94847511d9a863"
 
 [[files]]
 file = "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
