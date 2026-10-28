@@ -173,8 +173,8 @@ file = "mods/msmpcreateclientmod-1.0.0.jar"
 hash = "7f0ef31ac1532da41f8aab92c7be63ef9288819c361e3731878e0322f32757d9"
 
 [[files]]
-file = "mods/msmpupdater-1.0.2.jar"
-hash = "6acafaeb0d4bd8e2f90596948b62b365f421da9bfb5bcfb28ac829135be40bf1"
+file = "mods/msmpupdater-1.0.4.jar"
+hash = "7bae61366d56899561b9a39ffe0e6295e5dc3d9cee494dfaee485b66d021d771"
 
 [[files]]
 file = "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
