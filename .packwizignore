@@ -9,3 +9,4 @@ crash-reports/
 CNAME
 incr_version_script.py
 INCREMENT_VERSION.bat
+PlayersWeShouldProbablyWhitelist.txt
