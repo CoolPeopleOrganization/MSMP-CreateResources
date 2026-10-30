@@ -9,6 +9,10 @@ file = "mods/CreateDragonsPlus-1.11.9.jar"
 hash = "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
 
 [[files]]
+file = "mods/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar"
+hash = "d33a33b46f923462ae6806a024851afaefa473ced0e95bf405f8ebc13abce767"
+
+[[files]]
 file = "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar"
 hash = "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702"
 
@@ -31,6 +35,10 @@ hash = "b96f89e0d2180f1a1ff34e98cc40c2e3df6f93ad141aa570381096a3ee3d84e5"
 [[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
 hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+
+[[files]]
+file = "mods/architectury-13.0.11-neoforge.jar"
+hash = "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
 
 [[files]]
 file = "mods/azimuth-1.4.10.jar"
@@ -63,6 +71,10 @@ hash = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
 [[files]]
 file = "mods/create-enchantment-industry-2.4.2.jar"
 hash = "81f192bb53888e01f87a82eaac2f261c93715f2221dbcf5d8a8d414f912f75ef"
+
+[[files]]
+file = "mods/create_aeronautics_toolgun-0.3.6.jar"
+hash = "57db4e5b8e52c208a73764a5d0c8bc70fc61a62b96349e12b092dcd0b344874a"
 
 [[files]]
 file = "mods/create_aeronautics_transmission_linkage-0.2.8.jar"
@@ -185,6 +197,10 @@ file = "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
 hash = "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f"
 
 [[files]]
+file = "mods/powergrid-mc1.21.1-0.6.2.jar"
+hash = "e40d67a874431925d502af88e85064883c67936cfd689033d7df560cffcf19e7"
+
+[[files]]
 file = "mods/rechiseled-1.2.6-neoforge-mc1.21.jar"
 hash = "cd638bb122d7e1afce4f38b1c7da3af99be7b9f523869cfbc15e5347db5f8d9a"
 
@@ -247,6 +263,10 @@ hash = "a897851b9e5fffd9d17e89b7ad67aa7ac2bd6322272ab0cc20c0feb52e5ee5b0"
 [[files]]
 file = "mods/veinminer-neoforge-2.11.2+1.21.1.jar"
 hash = "2d70ecdbf24b7e5e3ab6f19715dcb37d956931e0b65e7026b4d5524e002c46e4"
+
+[[files]]
+file = "mods/villagercurrency-1.2.0-neoforge-1.21.1.jar"
+hash = "09e28abdbe222012611462d46545a3ac0ce62287ebd7c991de8589a86d44be34"
 
 [[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.26.jar"
