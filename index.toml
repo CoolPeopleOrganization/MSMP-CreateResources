@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "JohnPineapple.png"
+hash = "d5975c98a5eb3ed463e4588df29fc624c6f72f06a2f3df0506f126f05d5804c2"
+
+[[files]]
+file = "README.md"
+hash = "7cf5e1fe76f45e5a61786ec76fa35c3a148cd7b5294f4948425e715340599cd7"
+
+[[files]]
+file = "isaidstopthat.jpg"
+hash = "3416903210466bf6bac7972e084609fd3b8124b5df97dc69f0c78c98ca82d4f5"
+
+[[files]]
 file = "mods/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar"
 hash = "78990104c08a2f14f1ec18e0ddab47a682398401894954331b5f91213b4ca767"
 
@@ -95,6 +107,10 @@ hash = "d19e9de5496ba79dc8de7688adaab901af98c3b9281aae723d29ec97a2cf4d11"
 [[files]]
 file = "mods/create_netherless-2.0.0-1.21.1.jar"
 hash = "67b3d46046eb9c661825df4f6d72098b4e7bdf2918c5b797b16d66ee957e189d"
+
+[[files]]
+file = "mods/create_power_loader-2.0.5-mc1.21.1.jar"
+hash = "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7"
 
 [[files]]
 file = "mods/create_simulated_thrusters-1.21.1-NeoForge-1.0.1.jar"
