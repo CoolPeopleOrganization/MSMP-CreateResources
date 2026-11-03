@@ -293,6 +293,10 @@ file = "mods/sodium-neoforge-0.8.13+mc1.21.1.jar"
 hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
 
 [[files]]
+file = "mods/sophisticatedcore-1.21.1-1.5.25.2451.jar"
+hash = "42dcb8a97a641263b51dbebc5ddf94b01305149d151000650165550d331eb645"
+
+[[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar"
 hash = "108cac1fe49d0dc210183d69787db5a359cdc03c5b580eb8ab0208be7f072982"
 
