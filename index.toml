@@ -45,6 +45,10 @@ file = "mods/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.3.jar"
 hash = "b96f89e0d2180f1a1ff34e98cc40c2e3df6f93ad141aa570381096a3ee3d84e5"
 
 [[files]]
+file = "mods/SophisticatedSorter-neoforge-1.21.1-1.1.1.jar"
+hash = "e3787bffa443844122eee845f7099c7d2408b1bb9cde74e05ea790a6cbde8875"
+
+[[files]]
 file = "mods/aeroworks-1.5.0.jar"
 hash = "7e9745569a75eb613a9f75c9308aa2c806d3f0fab3a272d98647a13d3fa41641"
 
