@@ -1,6 +1,7 @@
 @echo off
 cd /d "%~dp0"
 
+packwiz refresh
 python "%~dp0incr_version_script.py" "%~dp0pack.toml"
 
 echo.

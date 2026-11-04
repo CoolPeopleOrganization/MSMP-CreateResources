@@ -105,8 +105,8 @@ file = "mods/create_connected-1.3.3-mc1.21.1.jar"
 hash = "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f"
 
 [[files]]
-file = "mods/create_drugs-1.2.0.jar"
-hash = "bd560c5401a83439195f640128ae7388c88d08f2019265b3cd045db3fa082c3f"
+file = "mods/create_drugs-1.1.0.jar"
+hash = "c0b9c527b01d967e83a08c47fd09bc3dcf8ddc63e7ca3d4cfd113d2d742f3eb9"
 
 [[files]]
 file = "mods/create_ltab-4.1.0.jar"
