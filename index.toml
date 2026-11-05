@@ -17,12 +17,20 @@ file = "mods/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar"
 hash = "78990104c08a2f14f1ec18e0ddab47a682398401894954331b5f91213b4ca767"
 
 [[files]]
+file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+
+[[files]]
 file = "mods/CreateDragonsPlus-1.11.9.jar"
 hash = "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
 
 [[files]]
 file = "mods/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar"
 hash = "d33a33b46f923462ae6806a024851afaefa473ced0e95bf405f8ebc13abce767"
+
+[[files]]
+file = "mods/Design-n-Decor-1.21.1-2.2b.jar"
+hash = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
 
 [[files]]
 file = "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar"
@@ -45,8 +53,20 @@ file = "mods/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.3.jar"
 hash = "b96f89e0d2180f1a1ff34e98cc40c2e3df6f93ad141aa570381096a3ee3d84e5"
 
 [[files]]
+file = "mods/Searchables-neoforge-1.21.1-1.0.2.jar"
+hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
+
+[[files]]
 file = "mods/SophisticatedSorter-neoforge-1.21.1-1.1.1.jar"
 hash = "e3787bffa443844122eee845f7099c7d2408b1bb9cde74e05ea790a6cbde8875"
+
+[[files]]
+file = "mods/advancements_reloaded-0.6.1-neoforge-1.21.1.jar"
+hash = "af3816c2c220fe0196bfca5ec08638b510a3380f166c115d8c75c4d1e5c872b6"
+
+[[files]]
+file = "mods/aeronauticscompat-1.1.3.jar"
+hash = "5204e1f901f20749673e384d18f73c1222f97c3efce28ff75c8fe782a55b1226"
 
 [[files]]
 file = "mods/aeroworks-1.5.0.jar"
@@ -69,6 +89,14 @@ file = "mods/bits_n_bobs-2.3.5.jar"
 hash = "3e1647383c6ed1d629b6f20210179d5870bcbf8ba2a2a0ec58af69b53513db68"
 
 [[files]]
+file = "mods/carryon-neoforge-1.21.1-2.2.6.13.jar"
+hash = "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
+
+[[files]]
+file = "mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar"
+hash = "73a352263e4d21dc4eaa9d52b31f949b896c507aec373e4218b0942fff8f73a3"
+
+[[files]]
 file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
@@ -79,6 +107,14 @@ hash = "ca70b57df3a7a4e8d211fea7ff3ae77e768482af374f26bf953ff5fd755564f0"
 [[files]]
 file = "mods/continuity-3.0.0+1.21.neoforge.jar"
 hash = "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a"
+
+[[files]]
+file = "mods/coolrain-1.21.1-NeoForge-1.0.2.jar"
+hash = "8c2c6070b41509b68a5b32fe0881a9d21393bd737d58aa6b45c7d96e2ae66fec"
+
+[[files]]
+file = "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar"
+hash = "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e"
 
 [[files]]
 file = "mods/create-1.21.1-6.0.10.jar"
@@ -135,6 +171,10 @@ hash = "71e9c3ac39089e72c1e47a129a44e41eb55efc9534eecfdead8da8fb64313414"
 [[files]]
 file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
 hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+
+[[files]]
+file = "mods/createdeco-2.1.3.jar"
+hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
 
 [[files]]
 file = "mods/createdieselgenerators-1.21.1-1.3.15.jar"
@@ -249,8 +289,16 @@ file = "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
 hash = "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f"
 
 [[files]]
+file = "mods/particlerain-4.0.0-beta.11+1.21.1-neoforge.jar"
+hash = "2e009947634616dfd251532eda14ef1729bcde1ccb482de83d67dffa232d1be0"
+
+[[files]]
 file = "mods/powergrid-mc1.21.1-0.6.2.jar"
 hash = "e40d67a874431925d502af88e85064883c67936cfd689033d7df560cffcf19e7"
+
+[[files]]
+file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
+hash = "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
 
 [[files]]
 file = "mods/rechiseled-1.2.6-neoforge-mc1.21.jar"
@@ -331,6 +379,10 @@ hash = "09e28abdbe222012611462d46545a3ac0ce62287ebd7c991de8589a86d44be34"
 [[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.26.jar"
 hash = "a0f7467d10fd245a549eb914bd5d2e502fbd17d60339c1a806be04cbe294b792"
+
+[[files]]
+file = "mods/worldedit-mod-7.3.8.jar"
+hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar"
