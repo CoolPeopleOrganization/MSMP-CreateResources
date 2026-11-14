@@ -185,6 +185,10 @@ file = "mods/createliquidfuel-3.0.0-1.21.1.jar"
 hash = "6b0ccd1579f59d13b927d7462a1f3c60b1069da967e54d3fb5629dbe2ff89216"
 
 [[files]]
+file = "mods/createnuclear-2.0.1-neoforge.jar"
+hash = "59f1be84e7a47ab44f0fb2f0260799fa348cec85b94cba3c7fc00ad3e35ea9db"
+
+[[files]]
 file = "mods/createpropulsion-1.1.5.jar"
 hash = "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1"
 
