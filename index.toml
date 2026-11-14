@@ -161,8 +161,8 @@ file = "mods/create_simulated_thrusters-1.21.1-NeoForge-1.0.1.jar"
 hash = "6e10ee40da0f5ffa1052c4eb9236fb52384d0793460b2da933f2228894850cf2"
 
 [[files]]
-file = "mods/create_submarine-3.3.0.jar"
-hash = "99709e004c8a7a36cb3439c0200ffd0c8ff5d7ca4fb77d49f76395d803864ba1"
+file = "mods/create_submarine-3.4.8.jar"
+hash = "fbba14e1fd94420903f6515820378fd76eba935edef6914f36faa42db84816ef"
 
 [[files]]
 file = "mods/createaddition-1.7.2.jar"
